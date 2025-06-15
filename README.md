@@ -42,9 +42,9 @@ you can install these packages with:
 -----------------------------------
 # U S A G E
  
-You will first be asked for your name
-once your name is entered, you can freely chat with Groq until one of the exit
-commands are entered (Leave, Stop, Exit, or Goodbye)
+- You will first be asked for your name
+- once your name is entered, you can freely chat with Groq until one of the exit
+- commands are entered (Leave, Stop, Exit, or Goodbye)
 
 -----------------------------------
 Author: Michelle Thomson
