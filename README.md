@@ -33,11 +33,11 @@ you can install these packages with:
 -----------------------------------
 # S E T U P
 
-• Copy the code files
-• Create a .env.txt file in the project directory
-• add your Groq AI API key to the .env.txt file
+- Copy the code files
+-Create a .env.txt file in the project directory
+- add your Groq AI API key to the .env.txt file
            GROQ_API_KEY = Your Api Key
-• Run the script!
+- Run the script!
 
 -----------------------------------
 # U S A G E
